@@ -1,2 +1,9 @@
 # swift-5.2
-Language feature
+ 
+ Tools : Xcode 11
+ 
+ Language : Swift 5.2
+ 
+ 1. Generics
+ 
+ 2. Tuples
